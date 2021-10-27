@@ -9,6 +9,7 @@ Other times, I might be working on an option to demo, but if the group ultimatel
 This is an experiement just to track my own commits locally and see how that goes.
 
 ## Oct 26
-![Code for DC - US Congress Pizza Flag Tracker](https://https://github.com/codefordc/us-congress-pizza-flag-tracker)
+![Code for DC - US Congress Pizza Flag Tracker](https://github.com/codefordc/us-congress-pizza-flag-tracker)
 
 setup comboBox layout and onclick
+
