@@ -16,3 +16,5 @@ This is an experiement just to track my own commits locally and see how that goe
 - validate user Combobox inputs
 
 - disable browser autocomplete from blocking Combobox
+
+- wired up matchSorter to Combobox
