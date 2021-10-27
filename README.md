@@ -11,6 +11,8 @@ This is an experiement just to track my own commits locally and see how that goe
 ## Oct 26
 [Capitol Flag Pizza Tracker App](https://github.com/codefordc/us-congress-pizza-flag-tracker)
 
-setup comboBox layout and onclick
+- setup comboBox layout and onclick
 
-validate user Combobox inputs
+- validate user Combobox inputs
+
+- disable browser autocomplete from blocking Combobox
