@@ -9,7 +9,10 @@ Other times, I might be working on an option to demo, but if the group ultimatel
 This is an experiement just to track my own commits locally and see how that goes.
 
 ## Oct 26
+#### Overall Project
 [Capitol Flag Pizza Tracker App](https://github.com/codefordc/us-congress-pizza-flag-tracker)
+#### Frontend Repo
+[Capitol Flag Pizza Tracker Frontend](https://github.com/codefordc/us-congress-pizza-flag-tracker-frontend)
 
 - setup comboBox layout and onclick
 
