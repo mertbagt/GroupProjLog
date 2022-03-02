@@ -64,6 +64,7 @@ This is an experiement just to track some of my own commits locally and see how 
 #### Frontend Repo
 [Capitol Flag Pizza Tracker Frontend](https://github.com/codefordc/us-congress-pizza-flag-tracker-frontend)
 
-###### Issue: gave FED-MAIL ability to skip AOC_FLOWN
+###### Issue: gave FED-MAIL ability to skip AOC_FLOWN, PR closed prematurely
 
 - gave Cong. Staffers ability to skip Mail office
+- removed console.log statements
