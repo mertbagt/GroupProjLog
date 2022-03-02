@@ -69,3 +69,4 @@ This is an experiement just to track some of my own commits locally and see how 
 - gave Cong. Staffers ability to skip Mail office
 - removed console.log statements
 - changed the skipped status from MAIL_RECEIVED to AOC_FLOWN
+- removed console.logs, fixed typo
