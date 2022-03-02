@@ -56,3 +56,14 @@ This is an experiement just to track some of my own commits locally and see how 
 - Cypress test author wanted feedback for her testing documentation, which I provided
 
 [Cypress Test Documentation](https://github.com/rkaufman13/us-congress-pizza-flag-tracker-frontend/blob/tests-readme/tests.md)
+
+## Mar 2
+
+#### Overall Project
+[Capitol Flag Pizza Tracker App](https://github.com/codefordc/us-congress-pizza-flag-tracker)
+#### Frontend Repo
+[Capitol Flag Pizza Tracker Frontend](https://github.com/codefordc/us-congress-pizza-flag-tracker-frontend)
+
+###### Issue: gave FED-MAIL ability to skip AOC_FLOWN
+
+- gave Cong. Staffers ability to skip Mail office
