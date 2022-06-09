@@ -71,3 +71,13 @@ This is an experiement just to track some of my own commits locally and see how 
 - changed the skipped status from MAIL_RECEIVED to AOC_FLOWN
 - removed console.logs, fixed typo
 - misnamed variable fixed
+
+## June 6
+
+#### Overall Project
+[Capitol Flag Pizza Tracker App](https://github.com/codefordc/us-congress-pizza-flag-tracker)
+#### Frontend Repo
+[Capitol Flag Pizza Tracker Frontend](https://github.com/codefordc/us-congress-pizza-flag-tracker-frontend)
+
+###### for co-project coder's consideration:
+
