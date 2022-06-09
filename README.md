@@ -81,3 +81,19 @@ This is an experiement just to track some of my own commits locally and see how 
 
 ###### for co-project coder's consideration:
 
+![image](https://user-images.githubusercontent.com/73559781/172938183-61bbb04f-8b83-4072-aabf-a50b51501153.png)
+
+vs
+
+![image](https://user-images.githubusercontent.com/73559781/172938227-43d8e447-fa7f-461c-b002-cfdfb16fe859.png)
+
+or to ask another way:
+
+given CA and AL-01
+
+do you expect all orders(CA) && all orders(AL-01)
+
+or
+
+do you expect all orders that are both (CA && AL-01) (i.e. nothing and therefore state should filter office)
+
